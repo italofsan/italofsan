@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Next JS**
 -->
 <h1 align="center">Hi 👋🏻, I'm Italo Santos</h1>
-<h2 align="center">I'm Front-End Developer from Brazil</h2>
+<h2 align="center">I'm a Front-End Developer from Brazil</h2>
 
 - 💬 Ask me about **React , React-Native, Front-End Enviroment**
 
-- 📫 How to reach me **italofsan@outlook.com**
+- 📫 How to reach me: **italofsan@outlook.com**
 
-- 💖 Passions **Games, Coding, Animes** 
+- 💖 Passions: **Games, Coding, Animes** 
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
