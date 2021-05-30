@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/italofsan" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://linkedin.com/in/italofsan" height="30" idth="40" />
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="https://linkedin.com/in/italofsan" height="30" idth="40" />
   </a>
   <a href="https://twitter.com/italofsan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="https://twitter.com/italofsan" height="30" width="40" />
