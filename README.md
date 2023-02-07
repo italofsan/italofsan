@@ -32,9 +32,6 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/italofsan" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="https://linkedin.com/in/italofsan" height="30" idth="40" />
   </a>
-  <a href="https://twitter.com/italofsan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="https://twitter.com/italofsan" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages, Libraries, Frameworks and Tools</h3>
